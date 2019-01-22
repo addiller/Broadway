@@ -1,0 +1,29 @@
+* {
+  text-align: center;
+}
+
+#home {
+  color: white;
+  font-size: 70px;
+  font-weight: bold;
+  font-family: helvetica;
+}
+
+#imgspan {
+  background: url('../images/Broadway.png');
+  width: auto;
+  background-repeat: no-repeat;
+  background-size: cover;
+  color: White;
+  font-size: 18px;
+  font-family: helvetica;
+  font-weight: 600;
+}
+
+#NYdesign {
+  background: url('../images/Broadway.png');
+  font-size: 32px;
+  font-weight: bold;
+  color: white;
+  font-family: helvetica;
+}
